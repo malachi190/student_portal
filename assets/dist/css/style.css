@@ -1,0 +1,14 @@
+
+.navbar .navbar-header .navbar-brand{
+    position: relative;
+
+}
+
+.navbar .navbar-header .navbar-brand p{
+    position: absolute;
+    top: 0;
+    left: 70px;
+
+    margin-top: 9px;
+    font-size: 40px;
+}
